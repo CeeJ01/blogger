@@ -1,0 +1,19 @@
+current directory: /home/ceej/Documents/Coding/WebDev/the_oden_project/ruby/projects/ruby_blogger/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.0/ext/byebug
+/usr/share/rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20180215-14856-1ncfwkl.rb extconf.rb
+creating Makefile
+
+current directory: /home/ceej/Documents/Coding/WebDev/the_oden_project/ruby/projects/ruby_blogger/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/ceej/Documents/Coding/WebDev/the_oden_project/ruby/projects/ruby_blogger/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/ceej/Documents/Coding/WebDev/the_oden_project/ruby/projects/ruby_blogger/vendor/bundle/ruby/2.4.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20180215-14856-1w5f0w3/byebug
